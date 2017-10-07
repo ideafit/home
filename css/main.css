@@ -213,8 +213,8 @@ h1.giant-heading {
     background: #FFFFFF;
 }
 .inner {
-    padding-top:50px;
-    padding-bottom:150px;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 .section-title {
     font-size: 45px;
