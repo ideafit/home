@@ -1,12 +1,12 @@
 body {
     background-color: #fff;
-    font: 'Kreon' 16px sans-serif;
+    font: 'Kreon' 16px serif;
     padding: 60px 0;
 }
 
 .container.gallery-container {
     background-color: #fff;
-    color: #35373a;
+    color: #fff;
     min-height: 100vh;
     border-radius: 20px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
