@@ -1,5 +1,6 @@
 body {
     background-color: #fff;
+    min-height: 100vh;
     font: 'Kreon' 16px serif;
     padding: 60px 0;
 }
@@ -8,8 +9,8 @@ body {
     background-color: #fff;
     color: #35373a;
     min-height: 100vh;
-    border-radius: 0px;
-    box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+    border-radius: 20px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
 }
 
 .gallery-container h1 {
