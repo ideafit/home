@@ -1,7 +1,7 @@
 body {
     background-color: #fff;
     min-height: 100vh;
-    font-family: 'Kreon', serif;
+    font-family: 'Mukta', serif;
     padding: 60px 0;
 }
 
@@ -16,7 +16,7 @@ body {
 .gallery-container h1 {
     text-align: center;
     margin-top: 70px;
-    font-family: 'Kreon', serif;
+    font-family: 'Mukta', serif;
     font-weight: bold;
 }
 
